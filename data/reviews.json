@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "review": "Excellent service! The quality of products is unmatched. Will definitely recommend.",
+        "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Alice Smith",
+        "review": "Amazing experience! The team was very helpful, and the delivery was quick.",
+        "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    },
+    {
+        "id": 3,
+        "name": "David Johnson",
+        "review": "Highly satisfied with the professionalism. The products exceeded my expectations.",
+        "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Emily White",
+        "review": "Prompt and efficient service. The website is user-friendly. Will shop again!",
+        "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "review": "Great prices and quality. The customer support team is very responsive.",
+        "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Olivia Turner",
+        "review": "Excellent communication throughout the process. Fast shipping. 5 stars!",
+        "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    }
+]

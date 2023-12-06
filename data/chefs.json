@@ -1,0 +1,278 @@
+[
+    {
+        "id": "6567876b93d889f4955d372b",
+        "picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Chef Mario",
+        "experience": 15,
+        "recipesCount": 50,
+        "likesCount": 2000,
+        "recipes": [
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Spaghetti",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Boil spaghetti; sauté garlic and onion; brown beef; add sauce; simmer.",
+                "rating": 4.8
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomatoes",
+                    "Fresh mozzarella",
+                    "Basil",
+                    "Olive oil"
+                ],
+                "cookingMethod": "Roll out dough; top with sliced tomatoes and mozzarella; bake.",
+                "rating": 4.7
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Cocoa powder",
+                    "Eggs"
+                ],
+                "cookingMethod": "Dip ladyfingers in coffee; layer with mascarpone mixture; dust with cocoa.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "6567876b1f8de8f5391401d4",
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?q=80&w=1954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Chef Sophia",
+        "experience": 12,
+        "recipesCount": 45,
+        "likesCount": 1800,
+        "recipes": [
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Spaghetti",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Boil spaghetti; sauté garlic and onion; brown beef; add sauce; simmer.",
+                "rating": 4.8
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomatoes",
+                    "Fresh mozzarella",
+                    "Basil",
+                    "Olive oil"
+                ],
+                "cookingMethod": "Roll out dough; top with sliced tomatoes and mozzarella; bake.",
+                "rating": 4.7
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Cocoa powder",
+                    "Eggs"
+                ],
+                "cookingMethod": "Dip ladyfingers in coffee; layer with mascarpone mixture; dust with cocoa.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "6567876b4225951c4a384b87",
+        "picture": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Chef Luca",
+        "experience": 10,
+        "recipesCount": 40,
+        "likesCount": 1600,
+        "recipes": [
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Spaghetti",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Boil spaghetti; sauté garlic and onion; brown beef; add sauce; simmer.",
+                "rating": 4.8
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomatoes",
+                    "Fresh mozzarella",
+                    "Basil",
+                    "Olive oil"
+                ],
+                "cookingMethod": "Roll out dough; top with sliced tomatoes and mozzarella; bake.",
+                "rating": 4.7
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Cocoa powder",
+                    "Eggs"
+                ],
+                "cookingMethod": "Dip ladyfingers in coffee; layer with mascarpone mixture; dust with cocoa.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "6567876bb3b4f54e16cef1db",
+        "picture": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Chef Isabella",
+        "experience": 8,
+        "recipesCount": 35,
+        "likesCount": 1500,
+        "recipes": [
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Spaghetti",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Boil spaghetti; sauté garlic and onion; brown beef; add sauce; simmer.",
+                "rating": 4.8
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomatoes",
+                    "Fresh mozzarella",
+                    "Basil",
+                    "Olive oil"
+                ],
+                "cookingMethod": "Roll out dough; top with sliced tomatoes and mozzarella; bake.",
+                "rating": 4.7
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Cocoa powder",
+                    "Eggs"
+                ],
+                "cookingMethod": "Dip ladyfingers in coffee; layer with mascarpone mixture; dust with cocoa.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "6567876b7adc78c0e8588727",
+        "picture": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Chef Giorgio",
+        "experience": 6,
+        "recipesCount": 30,
+        "likesCount": 1400,
+        "recipes": [
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Spaghetti",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Boil spaghetti; sauté garlic and onion; brown beef; add sauce; simmer.",
+                "rating": 4.8
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomatoes",
+                    "Fresh mozzarella",
+                    "Basil",
+                    "Olive oil"
+                ],
+                "cookingMethod": "Roll out dough; top with sliced tomatoes and mozzarella; bake.",
+                "rating": 4.7
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Cocoa powder",
+                    "Eggs"
+                ],
+                "cookingMethod": "Dip ladyfingers in coffee; layer with mascarpone mixture; dust with cocoa.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "6567876bf31e464b9180d80a",
+        "picture": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Chef Valentina",
+        "experience": 5,
+        "recipesCount": 25,
+        "likesCount": 1200,
+        "recipes": [
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Spaghetti",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Boil spaghetti; sauté garlic and onion; brown beef; add sauce; simmer.",
+                "rating": 4.8
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomatoes",
+                    "Fresh mozzarella",
+                    "Basil",
+                    "Olive oil"
+                ],
+                "cookingMethod": "Roll out dough; top with sliced tomatoes and mozzarella; bake.",
+                "rating": 4.7
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Cocoa powder",
+                    "Eggs"
+                ],
+                "cookingMethod": "Dip ladyfingers in coffee; layer with mascarpone mixture; dust with cocoa.",
+                "rating": 4.9
+            }
+        ]
+    }
+]
